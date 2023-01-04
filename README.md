@@ -1,2 +1,6 @@
 # Stack
-*pemrograman basic Stack dengan bahasa C++*
+*pemrograman basic Stack*
+
+## Bahasa
+*c++*
+
