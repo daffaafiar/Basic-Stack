@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669566855 source:c:\users\asus\documents\a.semester 3\struktur data\praktikum\mod10\main.cpp
+	"stack.h"
+
+1669565909 c:\users\asus\documents\a.semester 3\struktur data\praktikum\mod10\stack.h
+	<iostream>
+
+1669566452 source:c:\users\asus\documents\a.semester 3\struktur data\praktikum\mod10\stack.cpp
+	"Stack.h"
+
